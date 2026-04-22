@@ -1,3 +1,6 @@
+
+#CSV files from providers often have missing fields or "junk" data that breaks the system.
+# A Python script using pandas that cleans a "dirty" healthcare record file.
 import pandas as pd
 
 def clean_patient_data(file_path):

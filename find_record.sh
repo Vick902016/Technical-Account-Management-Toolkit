@@ -1,6 +1,6 @@
 #This script will look for files where the Entity (E) record matches your hospital and the Detail (D) record matches your account number, all within the context of your specific date.
 
-#!/bin/bash
+!/bin/bash
 
 # Configuration - adjust these paths to your environment
 SEARCH_DIR="./pending_claims"

@@ -1,4 +1,4 @@
---A hospital administrator claims Cedar isn't showing all their invoices. You need to find which patients have "Open" invoices but no recorded payments in the system yet.
+--A hospital administrator claims system isn't showing all their invoices. You need to find which patients have "Open" invoices but no recorded payments in the system yet.
 --Task: Join patients and invoices to list names and amounts for all "Open" bills.
 
 SELECT 

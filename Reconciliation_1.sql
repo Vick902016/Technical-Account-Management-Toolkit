@@ -1,4 +1,4 @@
--- A client asks for a report on how much money Cedar has collected versus traditional methods (Checks/Portal)
+-- A client asks for a report on how much money system has collected versus traditional methods (Checks/Portal)
 
 SELECT 
     source, 

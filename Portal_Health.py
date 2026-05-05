@@ -4,11 +4,11 @@
 import requests
 import time
 
-# List of Cedar-mock endpoints to test
+# List of mock endpoints to test
 ENDPOINTS = {
-    "Patient Login": "https://api.cedar_mock.com/v1/auth",
-    "Payment Processing": "https://api.cedar_mock.com/v1/payments",
-    "Insurance Eligibility": "https://api.cedar_mock.com/v1/insurance"
+    "Patient Login": "https://api.mock_mock.com/v1/auth",
+    "Payment Processing": "https://api.mock_mock.com/v1/payments",
+    "Insurance Eligibility": "https://api.mock_mock.com/v1/insurance"
 }
 
 def check_system_health():

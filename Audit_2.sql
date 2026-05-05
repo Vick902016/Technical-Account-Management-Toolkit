@@ -1,4 +1,4 @@
---Sometimes a patient pays on Cedar, but the "EHR" (the hospital's main computer) doesn't get the message. This is a post-back error.
+--Sometimes a patient pays on our system, but the "EHR" (the hospital's main computer) doesn't get the message. This is a post-back error.
 --Task: Find all invoice_ids where a payment exists in the payments table, but the invoice status is still 'Open' in the invoices table.
 --The Logic: This identifies a technical "desync" where the money was taken, but the record wasn't updated.
 

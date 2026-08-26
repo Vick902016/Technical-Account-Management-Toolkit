@@ -2,7 +2,7 @@ Technical Account Management Solutions
 This repository contains a suite of tools designed to optimize client onboarding and technical support workflows within the healthcare-fintech sector.
 
 Tools Included:
-Healthcare Data Validator (Python): Automates the auditing of patient CSV records to ensure data integrity before ingestion into Cedar’s platform.
+Healthcare Data Validator (Python): Automates the auditing of patient CSV records to ensure data integrity before ingestion into your platform.
 
 High-Priority Ticket Monitor (SQL): Identifies account health trends by analyzing ticket spikes.
 
